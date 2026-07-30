@@ -110,5 +110,9 @@ un `tier_N.mp4` por fuente ya con su audio.
 
   ##warning
   this was created with claude only for fun and for posible utilty
+
+
+
+
   audio con perdida de fidelidad para caber en una linea de escaneo), no un
   codec de audio moderno.
